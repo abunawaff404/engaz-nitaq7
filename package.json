@@ -1,0 +1,1 @@
+{"name":"engaz-schools","version":"1.0.0","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=20"},"dependencies":{"express":"^4.21.2","better-sqlite3":"^11.8.1","bcryptjs":"^2.4.3","express-rate-limit":"^7.5.0","helmet":"^8.0.0","cookie-parser":"^1.4.7"}}
